@@ -1,4 +1,7 @@
 torrent2magnet
 ==============
 
-Shell script to convert torrent file to magnet link
+##How to use:
+
+ * <b>Convert torrent file to magnet link and remove tracker</b>
+     * Run using `./t2m.sh`
